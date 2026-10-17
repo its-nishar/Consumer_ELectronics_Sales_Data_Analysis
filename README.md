@@ -210,8 +210,11 @@ The project includes analytical visualizations such as:
 
 ## 🧪 Statistical Analysis
 Chi-Square Test of Independence
+
 A Chi-Square test of independence can be used to examine the relationship between categorical variables such as:
+
 Customer Satisfaction → Purchase Intent
+
 The statistical test provides quantitative evidence to determine whether an observed association between the selected categorical variables is statistically significant.
 
 ---
@@ -266,5 +269,7 @@ The current analytical project can be extended into a more advanced customer int
 ## 👩‍💻 Author
 
 **Nisha R**
+
 **B.Tech – Artificial Intelligence and Data Science**
+
 **Ramco Institute of Technology**
