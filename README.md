@@ -62,8 +62,6 @@ The project follows a structured Data Analytics workflow to transform raw custom
 
 ### Workflow
 
-'''text
-
 Data Collection
       ↓
 Data Understanding
@@ -101,3 +99,18 @@ Key Insight Generation
 Business Recommendations
       ↓
 Conclusion
+
+---
+
+##🛠️ Technologies Used
+
+The project uses Python-based data analytics, visualization, and statistical analysis tools.
+
+- Python – Primary programming language for data analysis.
+- Pandas – Used for data loading, cleaning, transformation, grouping, and analysis.
+- NumPy – Used for numerical operations and data processing.
+- Matplotlib – Used for creating analytical visualizations.
+- Seaborn – Used for statistical and comparative visualizations.
+- SciPy – Used for statistical testing and hypothesis analysis.
+- Google Colab – Used as the development and analysis environment.
+- GitHub – Used for project version control and documentation.
