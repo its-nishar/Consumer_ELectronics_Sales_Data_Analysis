@@ -61,7 +61,7 @@ The dataset contains **9,000 records and 9 features**.
 The project follows a structured Data Analytics workflow to transform raw customer data into meaningful business insights.
 
 ### Workflow
-
+```text
 Data Collection
       ↓
 Data Understanding
@@ -99,7 +99,7 @@ Key Insight Generation
 Business Recommendations
       ↓
 Conclusion
-
+```
 ---
 
 ## 🛠️ Technologies Used
