@@ -169,16 +169,22 @@ The analysis focuses on identifying meaningful patterns in consumer electronics 
 
 ## 💡 Business Insights
 The analysis provides useful insights that can support decision-making in the consumer electronics industry.
+
 🎯 Customer Segmentation
 Customer age, satisfaction, and purchasing behavior can be used to understand different customer segments.
+
 📱 Product Strategy
 Category-level purchase-intent patterns can help identify product categories with relatively stronger customer interest.
+
 🏷️ Brand Strategy
 Brand-level analysis can help businesses understand differences in customer purchase interest across brands.
+
 ⭐ Customer Satisfaction
 Understanding the relationship between customer satisfaction and purchase intent can help businesses improve customer experience and engagement.
+
 💰 Pricing Analysis
 Price distributions across purchase-intent groups can provide additional information for understanding customer interest at different price levels.
+
 📊 Data-Driven Marketing
 Purchase-intent patterns can support targeted customer campaigns and more informed marketing decisions.
 
