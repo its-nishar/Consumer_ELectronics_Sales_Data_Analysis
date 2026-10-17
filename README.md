@@ -102,7 +102,7 @@ Conclusion
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 The project uses Python-based data analytics, visualization, and statistical analysis tools.
 
