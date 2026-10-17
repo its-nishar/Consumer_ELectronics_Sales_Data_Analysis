@@ -150,6 +150,7 @@ Correlation analysis is used to examine relationships between numerical variable
 - Purchase Intent
 13. 🧪 Statistical Analysis
 Statistical testing is used to evaluate whether observed relationships and differences in customer behavior are statistically meaningful.
+
 A Chi-Square test of independence can be applied to examine the association between categorical variables such as Customer Satisfaction and Purchase Intent.
 
 ---
@@ -263,6 +264,6 @@ The current analytical project can be extended into a more advanced customer int
 ---
 
 ## 👩‍💻 Author
-Nisha R
-B.Tech – Artificial Intelligence and Data Science
-Ramco Institute of Technology
+**Nisha R**
+**B.Tech – Artificial Intelligence and Data Science**
+**Ramco Institute of Technology**
